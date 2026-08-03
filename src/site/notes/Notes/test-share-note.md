@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/test-share-note/","tags":["gardenEntry"],"dg-note-properties":{"share_link":"https://share.note.sx/dxshpmdh#P9N+eq767hVjP4D0AZyUew","share_updated":"2026-08-03T02:34:39+02:00"}}
+{"dg-publish":true,"permalink":"/notes/test-share-note/","dg-note-properties":{"share_link":"https://share.note.sx/dxshpmdh#P9N+eq767hVjP4D0AZyUew","share_updated":"2026-08-03T02:34:39+02:00"}}
 ---
 
 
